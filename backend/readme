@@ -1,0 +1,7 @@
+package {
+    yup:{"for validation of incoming data to ensure data is valid and consistent"},
+    bcrypt:{"Password hashing"},
+    express:"Web application framework for Node.js",  
+    express-mongo-sentilize:"remove dollor and . character from incomig request" 
+}
+
